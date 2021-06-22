@@ -1,5 +1,5 @@
 #Soy la ostia
-#Sophie <3
+#Alex gay
 
 import random
 import pygame
